@@ -3,7 +3,7 @@
 	<default>
 		<product_list>
 			<general_setting>
-				<enable>0</enable>
+				<enable>1</enable>
 				<include_jquery>0</include_jquery>
 			</general_setting>
 			<frontend_setting>
